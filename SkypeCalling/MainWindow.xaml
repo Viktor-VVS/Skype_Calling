@@ -1,0 +1,27 @@
+﻿<Window x:Class="SkypeCalling.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Message_monitor" Height="301.706" Width="399.291" >
+    <Window.Resources>
+        <ContextMenu x:Key="TrayMenu">
+            <MenuItem Header="Спрятать" Click="ShowHideMainWindow" />
+            <MenuItem Header="Включить" Click="START" />
+            <MenuItem Header="Выключить" Click="STOP" />
+            <Separator />
+            <MenuItem Header="Выход" Click="MenuExitClick" />
+        </ContextMenu>
+    </Window.Resources>
+    <Grid Background="#FFE5E5E5" Margin="0,0,0,-2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="141*"/>
+            <RowDefinition Height="134*"/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="Settings" HorizontalAlignment="Left" VerticalAlignment="Top" Height="265" Width="380" Grid.RowSpan="2">
+            <Grid Margin="0,0,-2,-1">
+                <TextBox Name="Settings_Content" HorizontalAlignment="Left" Height="224" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="291"/>
+                <Button Name="Settings_Load" Content="Load" HorizontalAlignment="Left" Margin="306,10,0,0" VerticalAlignment="Top" Width="58" Click="Settings_Load_Click"/>
+                <Button Name="Settings_Save" Content="Save" HorizontalAlignment="Left" Margin="306,45,0,0" VerticalAlignment="Top" Width="58" Click="Settings_Save_Click"/>
+            </Grid>
+        </GroupBox>
+    </Grid >
+</Window>

@@ -1,0 +1,16 @@
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\bin\Debug\SkypeCalling.exe.config
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\bin\Debug\SkypeCalling.exe
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\bin\Debug\SkypeCalling.pdb
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.csprojResolveAssemblyReference.cache
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.csproj.ResolveComReference.cache
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\MainWindow.baml
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\MainWindow.g.cs
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\App.g.cs
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling_MarkupCompile.cache
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.g.resources
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.Properties.Resources.resources
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.csproj.GenerateResource.Cache
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.csproj.CoreCompileInputs.cache
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.exe
+c:\users\ira\source\repos\SkypeCalling\SkypeCalling\obj\Debug\SkypeCalling.pdb
